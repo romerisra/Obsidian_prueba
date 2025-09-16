@@ -25,6 +25,6 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Carmrn Rosa Arce Lagos <carmenrosa2017@gmail.com>
 * Cecilia Andrea Espinoza Paredes <ceciliaandreaespinozaparedes@gmail.com>
 * Cristhian Kevin Aquize Ledezma <crisskevin4.0@gmail.com>
-
+* Romer Israel Cachaca Alcon <romerisra@gmail.com>
 
 Última modificación Diego 202509152135
